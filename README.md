@@ -2,5 +2,5 @@
 Une demo de GIT qui se passe bien
 
 Maintenant on modifie depuis GitHub
-Et depuis le terminal en local
+Et depuis le terminal en local et c'est cool
 
